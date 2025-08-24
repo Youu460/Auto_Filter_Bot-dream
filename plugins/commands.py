@@ -100,7 +100,7 @@ async def start(client, message):
         buttons = [
                 InlineKeyboardButton('🖥 Oᴛᴛ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 🖥', url=f'https://t.me/+5iw_dWArjYg2YTBl')
                ],[
-                InlineKeyboardButton('⚙ Bᴏᴛ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ⚙', url=f'https://www.instagram.com/new_ott__updates?igsh=enI5ZzIzcXuzd3Bl')
+                InlineKeyboardButton('⚙ Bᴏᴛ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ⚙', url=f'https://t.me/+vaGyiQirUt4xNDFk')
               ],[
                 InlineKeyboardButton('⚓️ Lᴀᴛᴇꜱᴛ Mᴏᴠɪᴇ Rᴇʟᴇᴀꜱᴇ  ⚓️', url="https://t.me/+5iw_dWArjYg2YTBl"),
         ]  
@@ -130,7 +130,7 @@ async def start(client, message):
         buttons = [
                 InlineKeyboardButton('🖥 Oᴛᴛ Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ 🖥', url=f'https://t.me/+5iw_dWArjYg2YTBl')
                ],[
-                InlineKeyboardButton('⚙ Bᴏᴛ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ⚙', url=f'https://www.instagram.com/new_ott__updates?igsh=enI5ZzIzcXuzd3Bl')
+                InlineKeyboardButton('⚙ Bᴏᴛ Mᴏᴠɪᴇ Gʀᴏᴜᴘ ⚙', url=f'https://t.me/+vaGyiQirUt4xNDFk')
               ],[
                 InlineKeyboardButton('⚓️ Lᴀᴛᴇꜱᴛ Mᴏᴠɪᴇ Rᴇʟᴇᴀꜱᴇ  ⚓️', url="https://t.me/+5iw_dWArjYg2YTBl"),
         ]  
